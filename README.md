@@ -30,10 +30,11 @@ A simple **rule-based chatbot** built using Python. The chatbot interacts with u
 
 ## ▶️ How to Run  
 
-bash
+```bash
 git clone https://github.com/Rithika-B-7/CodeAlpha_Chatbot.git
 cd CodeAlpha_Chatbot
 python Chatbot.py
+```
 
 ## 🧠 Key Concepts  
 
@@ -48,4 +49,5 @@ python Chatbot.py
 ## 👩‍💻 Author  
 
 **Rithika B**  
+
 CSE Student | Panimalar Engineering College
